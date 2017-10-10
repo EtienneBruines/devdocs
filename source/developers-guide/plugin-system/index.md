@@ -862,6 +862,7 @@ The menu item won't be displayed if controller and action are missing.
 To know which class for which icon take a look at the <a href="/designers-guide/backend-icons/">Backend icon set overview</a>.
 
 ### Plugin Cronjob
+Since Shopware 5.2.15 it is possible to define your Cronjobs in the `cronjob.xml` file.
 
 Example `Resources/cronjob.xml`:
 
